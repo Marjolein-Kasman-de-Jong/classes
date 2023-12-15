@@ -1,5 +1,5 @@
-# Chapter 9 - Classes
-## Crash Course Programmeren In Python Assignments
+# Classes
+## Crash Course Programmeren In Python: Chapter 9
 
 ### Description
 
